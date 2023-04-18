@@ -41,4 +41,7 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/scences/menu11.unity
     guid: 15c04638c41f47b489567770d13045ee
+  - enabled: 0
+    path: Assets/arash.unity
+    guid: b26387c0dcc892241879442779c043c2
   m_configObjects: {}
